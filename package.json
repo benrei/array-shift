@@ -1,0 +1,26 @@
+{
+  "name": "array-shift",
+  "version": "1.0.2",
+  "description": "Shift array element up, down or custom",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "array",
+    "shift",
+    "move",
+    "index",
+    "up",
+    "down",
+    "custom"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benrei/array-shift.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benrei/array-shift/issues"
+  },
+  "homepage": "https://github.com/benrei/array-shift#readme",
+  "author": "Benjamin Reiersølmoen",
+  "license": "MIT"
+}
